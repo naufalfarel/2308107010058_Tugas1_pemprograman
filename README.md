@@ -56,7 +56,7 @@ Program ini berfungsi untuk mengkonversi bilangan antara sistem bilangan Desimal
 
 a.desimal - biner
 b.biner - desimal
-c.desimal - octal
+c.desimal - octal  
 d.octal - desimal
 
 jika user memilih angka a, maka akan masuk ke perhitungan desimal - biner dengan kode program

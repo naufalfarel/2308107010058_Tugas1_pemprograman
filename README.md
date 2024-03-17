@@ -55,11 +55,8 @@ Tugas Pemrograma 1 : program komputer yang dapat melakukan konversi bilangan
 Program ini berfungsi untuk mengkonversi bilangan antara sistem bilangan Desimal, Biner, dan Octal. Pengguna diharapkan untuk memilih jenis konversi yang ingin dilakukan dengan memasukkan huruf a, b, c, atau d.
 
 a.desimal - biner
-
 b.biner - desimal
-
 c.desimal - octal  
-
 d.octal - desimal
 
 jika user memilih angka a, maka akan masuk ke perhitungan desimal - biner dengan kode program
